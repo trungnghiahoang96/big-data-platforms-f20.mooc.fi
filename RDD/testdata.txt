@@ -1,0 +1,81 @@
+3039969	Tosa de la Llosada	Tosa de la Llosada		42.55129	1.64243	T	UPLD	AD		02				0		2475	Europe/Andorra	2015-02-06
+3039970	Riu de la Llosada	Riu de la Llosada		42.53619	1.61625	H	STM	AD		03				0		1900	Europe/Andorra	2015-02-06
+3039971	Obaga de la Llosada	Obaga de la Llosada		42.54673	1.6326	T	SLP	AD		00				0		2300	Europe/Andorra	2015-02-06
+3039972	Emprius de la Llosada	Emprius de la Llosada		42.5463	1.6213	L	PRK	AD		02				0		2299	Europe/Andorra	2015-02-06
+3039973	Basers de la Llosada	Basers de la Llosada		42.55113	1.63183	T	CLF	AD		02				0		2321	Europe/Andorra	2015-02-06
+3039974	Riu Llosà	Riu Llosa		42.45571	1.47746	H	STM	AD		06				0		1053	Europe/Andorra	2015-04-08
+3039975	Grau de la Llosa	Grau de la Llosa		42.62194	1.55236	T	SLP	AD		05				0		1837	Europe/Andorra	2014-11-05
+3039976	Collet de la Llosa	Collet de la Llosa		42.57032	1.50283	T	PASS	AD		00				0		1892	Europe/Andorra	2014-11-05
+3039977	Clots de la Llosa	Clots de la Llosa		42.61333	1.6217	H	RVN	AD		02				0		2295	Europe/Andorra	2014-11-05
+3039978	Canal de la Llosa	Canal de la Llosa		42.56359	1.49179	H	STM	AD		04				0		1433	Europe/Andorra	2014-11-05
+3039979	Llorts	Llorts	Llors,Llorta,Lors	42.59625	1.52658	P	PPL	AD	AD	05				0		1435	Europe/Andorra	2007-04-16
+3039980	Canal de les Llongues	Canal de les Llongues		42.55579	1.50617	H	STM	AD		04				0		1287	Europe/Andorra	2015-02-06
+3039981	Bosc de les Llongues	Bosc de les Llongues		42.55721	1.51093	V	FRST	AD		04				0		1501	Europe/Andorra	2015-02-06
+3039982	Costa dels Llomassos	Costa dels Llomassos		42.59041	1.45983	T	SLP	AD		04				0		2073	Europe/Andorra	2014-11-05
+3039983	Canal dels Llomassos	Canal dels Llomassos		42.54594	1.46817	H	STM	AD		04				0		1604	Europe/Andorra	2015-02-06
+3039984	Pleta del Llomar	Pleta del Llomar		42.6142	1.56759	L	GRAZ	AD		05				0		2196	Europe/Andorra	2014-11-05
+3039985	Clot del Llomar	Clot del Llomar		42.52741	1.47854	H	RVN	AD		04				0		1820	Europe/Andorra	2015-02-06
+3039986	Camí de la Llobatera	Cami de la Llobatera		42.54812	1.50327	R	TRL	AD		04				0		1569	Europe/Andorra	2015-02-06
+3039987	Canal Llisa	Canal Llisa		42.57599	1.51529	H	STM	AD		05				0		1413	Europe/Andorra	2014-12-03
+3039988	Canal Llisa	Canal Llisa		42.53102	1.58401	H	STM	AD		03				0		1439	Europe/Andorra	2015-02-06
+3039989	Torrent Llimois	Torrent Llimois		42.49047	1.44754	H	STM	AD		06				0		1293	Europe/Andorra	2015-03-08
+3039990	Solana dels Llimois	Solana dels Llimois		42.49232	1.44052	T	SLP	AD		06				0		1504	Europe/Andorra	2015-03-08
+3039991	Bosc de Llevai	Bosc de Llevai		42.5307	1.5444	V	FRST	AD		04				0		1735	Europe/Andorra	2015-02-06
+3039992	Basers de la Llessa	Basers de la Llessa		42.48608	1.50702	T	CLF	AD		07				0		1608	Europe/Andorra	2015-03-08
+3039993	Planell de la Llentiga	Planell de la Llentiga		42.60461	1.52266	T	UPLD	AD		05				0		1984	Europe/Andorra	2014-12-03
+3039994	Barranc del Llempo	Barranc del Llempo		42.5514	1.50873	H	STM	AD		04				0		1279	Europe/Andorra	2015-02-06
+3039995	Casa Llècsia	Casa Llecsia		42.57104	1.60069	S	HSE	AD		02				0		1722	Europe/Andorra	2014-12-03
+3039996	Borda del Llècsia	Borda del Llecsia		42.58495	1.60095	S	HUT	AD		02				0		2114	Europe/Andorra	2014-12-03
+3039997	Solana dels Llaurers	Solana dels Llaurers		42.48231	1.43966	T	SLP	AD		06				0		1825	Europe/Andorra	2015-03-08
+3039998	Obaga dels Llaurers	Obaga dels Llaurers		42.48097	1.44011	T	SLP	AD		06				0		1872	Europe/Andorra	2015-03-08
+3039999	Bony dels Llaurers	Bony dels Llaurers	Bony dels Llaurers,Bony dels Llorers	42.48121	1.43487	T	PK	AD		00				0		2108	Europe/Andorra	2015-03-08
+3040000	Roc Llarg	Roc Llarg		42.55818	1.44707	T	SPUR	AD		04				0		2166	Europe/Andorra	2015-02-066528062	Ta Inn Hotel	TA INN HOTEL		59.2626	18.10066	S	HTL	SE		26	0180			0		37	Europe/Stockholm	2011-10-30
+6528088	Hotel Stinsen	HOTEL STINSEN		59.066	15.1115	S	HTL	SE		15	1861			0		56	Europe/Stockholm	2011-10-30
+6528111	Albert Kok Hotell Conference	ALBERT KOK HOTELL CONFERENCE		58.28566	12.27999	S	HTL	SE		28	1488	148801	1801	0		61	Europe/Stockholm	2015-10-29
+6528495	Ankaret Hotel And Restaurant	ANKARET HOTEL AND RESTAURANT		58.6725	17.0975	S	HTL	SE		18	0481			0		5	Europe/Stockholm	2011-10-30
+6528965	Karlaby Kro	KARLABY KRO		55.5563	14.35	S	HTL	SE		27	1291			0		12	Europe/Stockholm	2011-10-30
+6529225	Best Western Hotell SöderH	Best Western Hotell SoederH		61.30235	17.03323	S	HTL	SE		03	2182	218201	2440	0		8	Europe/Stockholm	2015-10-24
+6529244	1909 Sigtuna Stads Hotell	1909 SIGTUNA STADS HOTELL		59.61472	17.7196	S	HTL	SE		26	0191			0		17	Europe/Stockholm	2011-10-30
+6529275	Quality Hotel Ekoxen	QUALITY HOTEL EKOXEN		58.40574	15.62391	S	HTL	SE		16	0580	058002	0461	0		55	Europe/Stockholm	2012-01-26
+6529307	Hotel Nordica	HOTEL NORDICA		63.8532	15.5652	S	HTL	SE		07	2313			0		304	Europe/Stockholm	2011-10-30
+6529348	Orbaden Konferens & Spa	Orbaden Konferens & Spa		61.54078	16.36954	S	HTL	SE		03	2183	218309	2395	0		117	Europe/Stockholm	2015-11-04
+6529390	Hotel Gastis	HOTEL GASTIS		57.1101	12.2669	S	HTL	SE		06	1383			0		24	Europe/Stockholm	2011-10-30
+6529693	Bjertorp Slott	Bjertorp Slott		58.26419	13.11167	S	HTL	SE		28	1470	147029	1903	0		85	Europe/Stockholm	2015-10-31
+6529918	Scandic Upplands Vasby	SCANDIC UPPLANDS VASBY		59.51612	17.92162	S	HTL	SE		26	0114			0		19	Europe/Stockholm	2011-10-30
+6529972	Scandic Vasteras	SCANDIC VASTERAS		59.6142	16.568	S	HTL	SE		25	1980			0		13	Europe/Stockholm	2011-10-30
+6530058	Berling Hotel	BERLING HOTEL		59.3793	13.4994	S	HTL	SE		22	1780			0		59	Europe/Stockholm	2011-10-30
+6530088	St  Jorgens Hotel  Pensionat	ST  JORGENS HOTEL  PENSIONAT		57.7061	11.9628	S	HTL	SE		28	1480			0		11	Europe/Stockholm	2011-10-30
+6530091	Welcome Hotel Barkarby	Welcome Hotel Barkarby		59.40506	17.87031	S	HTL	SE		26	0123			0		17	Europe/Stockholm	2014-05-03
+6530197	Falkenberg Strandbad	Falkenberg Strandbad		56.88861	12.49588	S	HTL	SE		06	1382	138201	1442	0		5	Europe/Stockholm	2015-10-25
+6530217	Best Western Hotel Eggers	BEST WESTERN HOTEL EGGERS		57.7083	11.9726	S	HTL	SE		28	1480			0		8	Europe/Stockholm	2011-10-30
+6530316	Hotel St  Mikael	HOTEL ST  MIKAEL		61.0026	14.5341	S	HTL	SE		10	2062			0		162	Europe/Stockholm	2011-10-30
+6530522	Quality Hotel Prisma	QUALITY HOTEL PRISMA		58.38779	13.85706	S	HTL	SE		28	1496	149601	2030	0		137	Europe/Stockholm	2015-10-29
+6530642	Stångå Hotell	Stanga Hotell	Stanga Hotell,Stångå Hotell	58.41426	15.62868	S	HTL	SE		16	0580	058002	0461	0		46	Europe/Stockholm	2012-01-24
+6530760	Best Western Hotell Boras	BEST WESTERN HOTELL BORAS		57.72246	12.94203	S	HTL	SE		28	1490	149001	1636	0		148	Europe/Stockholm	2015-10-27
+6530840	Hotel Terminus	Hotel Terminus		59.33076	18.05971	S	HTL	SE		26	0180	018001	0091	0		24	Europe/Stockholm	2014-05-03
+6531153	Elite Stadshotellet	Elite Stadshotellet		59.6112	16.5426	S	HTL	SE		25	1980			0		20	Europe/Stockholm	2015-10-25
+6531546	Esplanade Hotel - Stockholm	ESPLANADE HOTEL - STOCKHOLM		59.332	18.0619	S	HTL	SE		26	0180			0		23	Europe/Stockholm	2011-10-30
+6531627	Scandic Hotel Foresta	Scandic Hotel Foresta		59.36	18.1211	S	HTL	SE		26				0		46	Europe/Stockholm	2014-11-09
+6531678	Centralhotellet	CENTRALHOTELLET		57.75637	16.64191	S	HTL	SE		09	0883	088301	0884	0		13	Europe/Stockholm	2015-10-27
+6531768	Frano Hotel	FRANO HOTEL		62.9301	17.7991	S	HTL	SE		24	2282	228201	2475	0		1	Europe/Stockholm	2018-04-22
+6531810	Hotel Varend	HOTEL VAREND		56.88247	14.80918	S	HTL	SE		12	0780	078001	0773	0		176	Europe/Stockholm	2013-03-09
+6531994	ibis Styles Stockholm Odenplan	ibis Styles Stockholm Odenplan		59.3424	18.0467	S	HTL	SE		26	0180	018001	0091	0		42	Europe/Stockholm	2015-10-18
+6532122	Elite Hotel Knaust	ELITE HOTEL KNAUST		62.3907	17.3116	S	HTL	SE		24	2281			0		4	Europe/Stockholm	2011-10-30
+6532369	Strand Hotel	STRAND HOTEL		58.3691	12.3241	S	HTL	SE		28	1487			0		52	Europe/Stockholm	2011-10-30
+6532434	City Hotel  Fam  Ericsson	CITY HOTEL  FAM  ERICSSON		57.78365	14.15916	S	HTL	SE		08	0680	068001	0614	0		105	Europe/Stockholm	2015-10-28
+6532457	Hotel  Cafe Victoria	HOTEL  CAFE VICTORIA		64.75042	20.95331	S	HTL	SE		23	2482			0		34	Europe/Stockholm	2011-10-30
+6532603	Lovudden Hotel	LOVUDDEN HOTEL		59.5524	16.5067	S	HTL	SE		25	1980			0		12	Europe/Stockholm	2011-10-30
+6532618	Näsby Slott	Naesby Slott		59.42378	18.08865	S	HTL	SE		26	0160			0		13	Europe/Stockholm	2015-07-12
+6532622	Hotel Aveny	HOTEL AVENY		65.58375	22.16082	S	HTL	SE		14	2580			0		1	Europe/Stockholm	2011-10-30
+6532741	Hotell Storgarden	HOTELL STORGARDEN		59.2768	15.2143	S	HTL	SE		15	1880			0		40	Europe/Stockholm	2011-10-30
+6533074	Hässelby Slott	Haesselby Slott		59.36545	17.85469	S	HTL	SE		26	0180			0		35	Europe/Stockholm	2014-05-03
+6533087	Best Western Norra Vättern	Best Western Norra Vaettern		58.87936	14.89862	S	HTL	SE		15	1882	188201	2215	0		94	Europe/Stockholm	2015-11-08
+6533162	Hotell Roslagen	HOTELL ROSLAGEN		59.7604	18.7043	S	HTL	SE		26	0188			0		15	Europe/Stockholm	2011-10-30
+6534204	Vasaparken	Vasaparken		59.34026	18.04367	L	PRK	SE		26				2		27	Europe/Stockholm	2007-05-09
+6534205	Odenplan	Odenplan		59.34275	18.04908	S	SQR	SE		26	0180			0		36	Europe/Stockholm	2014-05-03
+6534206	Rödabergen	Roedabergen	Rodabergen,Roedabergen,Rödabergen,Rødabergen	59.3442	18.03539	P	PPLX	SE		26	0180			0		40	Europe/Stockholm	2011-10-30
+6534207	Vanadisbadet	Vanadisbadet		59.34831	18.05243	S	BSTN	SE		26	0180			0		28	Europe/Stockholm	2011-10-30
+6615349	Pårek	Parek		67.05566	17.78275	H	LKS	SE		14				0	650	698	Europe/Stockholm	2007-08-11
+6615350	Pårek	Parek		67.06837	17.77039	H	LK	SE		14				0	650	694	Europe/Stockholm	2007-08-11
+6615464	Ulleråker	Ulleraker		59.83017	17.65104	P	PPLX	SE		21	0380			0		39	Europe/Stockholm	2011-10-30
+6615465	Kronparken	Kronparken		59.83742	17.64246	V	FRST	SE		21				0		51	Europe/Stockholm	2007-08-23
